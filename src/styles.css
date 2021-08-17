@@ -4,14 +4,72 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Roboto";
 }
-/* .main-nav {
+input:focus {
+  outline: none;
+}
+input::placeholder {
+  font-size: 14px;
+}
+.main-nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   background-color: #0a337a;
   width: 100%;
   height: 70px;
   color: #fff;
-} */
-/* .main-nav h1 {
+}
+.main-nav .logo {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.main-nav .logo .icon {
+  font-size: 40px;
+}
+.main-nav .logo h1 {
+  font-size: 30px;
+  font-family: "Roboto";
+  margin-left: 10px;
+}
+.main-nav .search-box {
+  position: relative;
+}
+.main-nav .search-box .search-icon {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: gray;
+  font-size: 26px;
+}
+.main-nav input {
+  width: 120%;
+  background-color: #fff;
+  padding: 15px 55px;
   font-size: 16px;
-} */
+  border: none;
+  border-radius: 5px;
+}
+.main-nav .nav-links {
+  width: 25%;
+}
+.main-nav .nav-links ul {
+  display: flex;
+  justify-content: space-around;
+}
+.main-nav .nav-links ul li {
+  list-style: none;
+  transition: 0.5s;
+}
+.main-nav .nav-links ul li .links {
+  text-decoration: none;
+  color: #fff;
+}
+.main-nav .nav-links ul .nav-icons {
+  font-size: 30px;
+}
+.main-nav .nav-links ul li:hover {
+  transform: translateY(-6px);
+  cursor: pointer;
+}

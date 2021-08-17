@@ -12,10 +12,10 @@ function App() {
   return (
     <BrowserRouter>
        <Navbar />
-       {/* <Switch>
+       <Switch>
           <Route path="/" exact><Dashboard/></Route>
-          <Route path="/appliedjobs"><AppliedJobs /></Route>
-       </Switch> */}
+          {/* <Route path="/appliedjobs"><AppliedJobs /></Route> */}
+       </Switch>
     </BrowserRouter>
   );
 }
