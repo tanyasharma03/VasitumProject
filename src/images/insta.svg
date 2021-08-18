@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="iconfinder_38-instagram_1161953" width="18.906" height="18.906" viewBox="0 0 18.906 18.906">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}
+        </style>
+        <linearGradient id="linear-gradient" x1=".816" x2="-.181" y1=".182" y2="1.305" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#833ab4"/>
+            <stop offset=".092" stop-color="#9c3495"/>
+            <stop offset=".293" stop-color="#dc2546"/>
+            <stop offset=".392" stop-color="#fd1d1d"/>
+            <stop offset=".559" stop-color="#fc6831"/>
+            <stop offset=".689" stop-color="#fc9b40"/>
+            <stop offset=".752" stop-color="#fcaf45"/>
+            <stop offset=".781" stop-color="#fdb750"/>
+            <stop offset=".866" stop-color="#fecb6a"/>
+            <stop offset=".942" stop-color="#ffd87a"/>
+            <stop offset="1" stop-color="#ffdc80"/>
+        </linearGradient>
+    </defs>
+    <path id="Path_8902" d="M20.279 16.7a4.879 4.879 0 1 0 4.879 4.879 4.888 4.888 0 0 0-4.879-4.879zm0 8a3.126 3.126 0 1 1 3.121-3.121 3.14 3.14 0 0 1-3.121 3.121z" class="cls-1" data-name="Path 8902" transform="translate(-10.826 -12.164)"/>
+    <ellipse id="Ellipse_1444" cx="1.105" cy="1.105" class="cls-1" data-name="Ellipse 1444" rx="1.105" ry="1.105" transform="translate(13.417 3.316)"/>
+    <path id="Path_8903" d="M20.782 6.363a5.429 5.429 0 0 0-4-1.563H8.927A5.222 5.222 0 0 0 3.4 10.327v7.814A5.485 5.485 0 0 0 5 22.22a5.563 5.563 0 0 0 3.964 1.487h7.776a5.628 5.628 0 0 0 4-1.487 5.457 5.457 0 0 0 1.563-4.04v-7.853a5.464 5.464 0 0 0-1.521-3.964zm-.152 11.816a3.725 3.725 0 0 1-1.105 2.783 3.94 3.94 0 0 1-2.783.991H8.965a3.94 3.94 0 0 1-2.783-.991 3.831 3.831 0 0 1-1.029-2.821v-7.814a3.8 3.8 0 0 1 1.03-2.783 3.876 3.876 0 0 1 2.783-.991h7.852a3.8 3.8 0 0 1 2.782 1.03 3.933 3.933 0 0 1 1.029 2.744v7.852z" class="cls-1" data-name="Path 8903" transform="translate(-3.4 -4.8)"/>
+</svg>
