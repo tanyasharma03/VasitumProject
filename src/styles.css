@@ -326,3 +326,25 @@ input::placeholder {
   margin-right: 8px;
   color: #0a337a;
 }
+
+/* /////-----Filter---//// */
+.first-col .filter {
+  background-color: #fff;
+  border: 1px solid rgba(117, 115, 115, 0.5);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.first-col .filter label {
+  font-size: 16px;
+}
+.first-col .filter h4 {
+  font-size: 14px;
+  color: grey;
+}
+.first-col .filter p {
+  font-size: 15px;
+}
+.first-col .filter span {
+  margin-left: 90px;
+  cursor: pointer;
+}

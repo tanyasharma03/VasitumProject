@@ -25,8 +25,8 @@ const Navbar = () => {
                 <div className="nav-links">
                     <ul>
                         <li><HomeIcon className="nav-icons" style={{marginLeft:5}}/><br/><NavLink to="/" className="links">Home</NavLink></li>
-                        <li><BookmarkBorderIcon className="nav-icons" style={{marginLeft:5}}/><br/><NavLink to="/" className="links">Saved</NavLink></li>
-                        <li><CheckCircleOutlineIcon className="nav-icons" style={{ marginLeft:20}}/><br/><NavLink to="/" className="links">Applied Jobs</NavLink></li>
+                        <li><BookmarkBorderIcon className="nav-icons" style={{marginLeft:5}}/><br/><NavLink to="/saved" className="links">Saved</NavLink></li>
+                        <li><CheckCircleOutlineIcon className="nav-icons" style={{ marginLeft:20}}/><br/><NavLink to="/appliedjobs" className="links">Applied Jobs</NavLink></li>
                     </ul>
                 </div>
             </nav>
