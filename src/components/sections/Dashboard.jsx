@@ -5,6 +5,7 @@ import Social from '../minisections/Social'
 import Profile from '../minisections/Profile'
 import Terms from '../minisections/Terms'
 import Updates from '../minisections/dashBody/Updates'
+import Jobs from '../minisections/dashBody/Jobs'
 
 const Dashboard = () => {
 
@@ -19,6 +20,7 @@ const Dashboard = () => {
                 <div className="second-col col-lg-6 col-md-12 col-sm-12 col-xs-12">
                     <p style={{fontFamily:'sans-serif'}}>👋 The secret to getting head is getting started.</p>
                     <Updates/>
+                    <Jobs />
                 </div>
                 <div className="third-col col-lg-3 col-md-12 col-sm-12 col-xs-12">
                    <Profile/>

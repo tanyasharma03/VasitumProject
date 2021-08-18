@@ -18,7 +18,7 @@ const Terms = () => {
                 <div style={{display:'flex', marginTop:20, alignItems:'center'}}>
                 <AcUnitIcon className="icon"/>
                     <h4>Vasitum </h4>
-                    <p style={{color:"#000"}}>Vasitum ©2021</p>
+                    <p style={{color:"#000", marginTop:10}}>Vasitum ©2021</p>
                 </div>
             </div>
         </>
