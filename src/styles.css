@@ -70,7 +70,8 @@ input::placeholder {
   color: #fff;
 }
 .main-nav .nav-links ul .nav-icons {
-  font-size: 30px;
+  margin-top: 14px;
+  font-size: 25px;
 }
 .main-nav .nav-links ul li:hover {
   transform: translateY(-6px);
@@ -79,15 +80,14 @@ input::placeholder {
 
 /* /////------dashboard styling--------/////// */
 .main-dash {
-  display: flex;
-  padding: 50px 150px;
+  /* display: flex; */
+  padding: 50px 100px;
   background-color: #f5f5f5;
-  /* background-color: #f9f3f3; */
   font-family: "Poppins";
 }
 .main-dash .first-col {
-  flex-basis: 18%;
-  margin: 0 20px;
+  /* flex-basis: 18%; */
+  margin: 0 10px;
 }
 .first-col .first-row {
   border: 1px solid rgba(117, 115, 115, 0.5);
@@ -111,23 +111,35 @@ input::placeholder {
 }
 .first-col .second-row h3 {
   color: #171717;
-  margin: 15px;
-  font-size: 16px;
+  margin: 10px;
+  font-size: 14px;
 }
 .first-col .second-row img {
-  margin: 12px 10px;
+  margin: 10px 9px;
 }
-.first-col .second-row .social-icons {
-  background-color: #f9f3f3;
-}
+
+/* ////-------SECOND COLUMN-----/// */
+
 .main-dash .second-col {
-  flex-basis: 55%;
-  border: 2px solid;
-  margin: 0 20px;
+  /* flex-basis: 50%; */
+  margin: 0 10px;
 }
+.second-col .updates {
+  border: 1px solid rgba(117, 115, 115, 0.5);
+  margin-top: 20px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.second-col .updates p {
+  margin: 20px;
+  font-family: sans-serif;
+}
+
+/* /////---THIRD COLUMN---//// */
+
 .main-dash .third-col {
-  flex-basis: 25%;
-  margin: 0 20px;
+  /* flex-basis: 26%; */
+  margin: 0 10px;
 }
 .main-dash .third-col .profile-icon {
   border: 1px solid rgba(117, 115, 115, 0.5);
@@ -169,7 +181,7 @@ input::placeholder {
 }
 
 .custom-file-input {
-  margin: 14px 8px;
+  margin: 14px 6px;
   color: transparent;
   width: 100%;
 }
