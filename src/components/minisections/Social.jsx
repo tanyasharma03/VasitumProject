@@ -9,7 +9,7 @@ const Social = () => {
     return (
         <>
             <div className="second-row">
-                <h3>Follow Vasitum on Social Media</h3>
+                <h3>Follow GyaanGhar on Social Media</h3>
                 <hr/>
                 <div className="social-icons">
                 <img src={fb} alt="logo"/>

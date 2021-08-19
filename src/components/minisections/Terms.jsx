@@ -12,13 +12,13 @@ const Terms = () => {
                 <span>Blog </span>
                 <span>Privacy Policy</span>
                 <div style={{display:"flex", marginTop:10, marginBottom:12}}>
-                <MailOutlineOutlinedIcon className="mail"/><p>meet@vasitum.com</p>
+                <MailOutlineOutlinedIcon className="mail"/><p>meet@gyaanghar.com</p>
                 </div>
                 <hr/>
                 <div style={{display:'flex', marginTop:20, alignItems:'center'}}>
                 <AcUnitIcon className="icon"/>
-                    <h4>Vasitum </h4>
-                    <p style={{color:"#000", marginTop:10}}>Vasitum ©2021</p>
+                    <h4>GyaanGhar </h4>
+                    <p style={{color:"#000",fontSize:10, marginTop:10}}>GyaanGhar ©2021</p>
                 </div>
             </div>
         </>

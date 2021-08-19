@@ -5,7 +5,7 @@ const Profile = () => {
     return (
         <>
                 <div className="profile-icon">
-                    <div style={{height:112, backgroundColor:"#7C83FD"}}></div>
+                    <div style={{height:112, backgroundColor:"#ff6b6b"}}></div>
                     <div>
                         <div style={{backgroundColor:"#DDDDDD",position:'relative',width:100, height:100, borderRadius:"100%", marginLeft:90, marginTop:-60}}>
                         <img src={img} alt="usericon" />

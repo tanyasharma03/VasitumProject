@@ -13,7 +13,7 @@ const Navbar = () => {
                 <div className="logo">
                     <AcUnitIcon className="icon"/>
                     <h1>
-                        Vasitum
+                        GyaanGhar
                     </h1>
                 </div>
 
