@@ -374,3 +374,29 @@ input::placeholder {
   padding: 10px 30px;
   border-radius: 5px;
 }
+
+@media (max-width: 990px) {
+  .main-dash {
+    padding: 50px 50px;
+  }
+  .first-col .first-row {
+    text-align: center;
+  }
+  .first-col .second-row {
+    text-align: center;
+  }
+  .second-col .update-resume {
+    width: 70%;
+  }
+  .second-col .job-cards .icons {
+    margin-left: 480px;
+  }
+}
+@media (max-width: 486px) {
+  .second-col .job-cards .icons {
+    margin-left: 200px;
+  }
+  .main-dash {
+    padding: 10px;
+  }
+}
